@@ -1,6 +1,3 @@
-#include "SDL3/SDL_log.h"
-#include "SDL3/SDL_render.h"
-#include "SDL3/SDL_timer.h"
 #include <climits>
 #include <cstdlib>
 #include <ctime>
