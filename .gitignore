@@ -1,0 +1,16 @@
+# Common build directories
+/build*/
+
+# MacOS Finder files.
+.DS_Store
+
+# CMake files 
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles/*
+CMakeScripts
+Makefile
+cmake_install.cmake
+install_manifest.txt
+CTestTestfile.cmake
+_deps
